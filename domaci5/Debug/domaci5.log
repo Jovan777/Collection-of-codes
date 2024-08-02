@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\domaci5\Source.c(53,20): warning C4133: 'function': incompatible types - from 'int [256]' to 'char *'
+C:\Users\Jovan\source\repos\domaci5\Source.c(101,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int *'
+C:\Users\Jovan\source\repos\domaci5\Source.c(179,108): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jovan\source\repos\domaci5\Source.c(210,18): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int *'
+C:\Users\Jovan\source\repos\domaci5\Source.c(286,9): warning C4101: 'y': unreferenced local variable
+C:\Users\Jovan\source\repos\domaci5\Source.c(285,9): warning C4101: 'x': unreferenced local variable
+C:\Users\Jovan\source\repos\domaci5\Source.c(284,9): warning C4101: 'd': unreferenced local variable
+  domaci5.vcxproj -> C:\Users\Jovan\source\repos\domaci5\Debug\domaci5.exe

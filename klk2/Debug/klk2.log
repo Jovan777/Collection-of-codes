@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\klk2\Source.c(363,13): warning C4047: 'return': 'Student *' differs in levels of indirection from 'Student **'
+C:\Users\Jovan\source\repos\klk2\Source.c(420,26): warning C4047: '<=': 'elem *' differs in levels of indirection from 'int'
+C:\Users\Jovan\source\repos\klk2\Source.c(466,48): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  klk2.vcxproj -> C:\Users\Jovan\source\repos\klk2\Debug\klk2.exe

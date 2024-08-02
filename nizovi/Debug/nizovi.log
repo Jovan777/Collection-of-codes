@@ -1,0 +1,3 @@
+﻿  main_prog.cpp
+C:\Users\Jovan\source\repos\nizovi\tacka5.h(33,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  nizovi.vcxproj -> C:\Users\Jovan\source\repos\nizovi\Debug\nizovi.exe

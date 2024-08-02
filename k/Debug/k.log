@@ -1,0 +1,18 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\k\Source.c(11,15): warning C4013: 'memset' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\k\Source.c(13,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Jovan\source\repos\k\Source.c(14,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Jovan\source\repos\k\Source.c(39,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Jovan\source\repos\k\Source.c(40,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Jovan\source\repos\k\Source.c(15,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(16,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(17,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(18,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(19,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(22,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(23,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(24,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(26,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(27,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jovan\source\repos\k\Source.c(29,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  k.vcxproj -> C:\Users\Jovan\source\repos\k\Debug\k.exe

@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\Project5\Source.c(233,14): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\Jovan\source\repos\Project5\Source.c(233,10): warning C4024: 'putchar': different types for formal and actual parameter 1
+C:\Users\Jovan\source\repos\Project5\Source.c(338): warning C4715: 'citaj': not all control paths return a value
+  Project5.vcxproj -> C:\Users\Jovan\source\repos\Project5\Debug\Project5.exe

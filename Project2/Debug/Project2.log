@@ -1,0 +1,10 @@
+﻿  tri_broja.c
+C:\Users\Jovan\source\repos\Project2\tri_broja.c(111,17): warning C4133: 'function': incompatible types - from 'int *' to 'Point *'
+C:\Users\Jovan\source\repos\Project2\tri_broja.c(112,18): warning C4133: 'function': incompatible types - from 'int *' to 'Point *'
+C:\Users\Jovan\source\repos\Project2\tri_broja.c(114,13): warning C4133: 'function': incompatible types - from 'int *' to 'Point *'
+C:\Users\Jovan\source\repos\Project2\tri_broja.c(114,26): warning C4133: 'function': incompatible types - from 'int *' to 'Point *'
+C:\Users\Jovan\source\repos\Project2\tri_broja.c(108,1): warning C4133: 'initializing': incompatible types - from 'Point *' to 'int *'
+C:\Users\Jovan\source\repos\Project2\tri_broja.c(109,1): warning C4133: 'initializing': incompatible types - from 'Point *' to 'int *'
+C:\Users\Jovan\source\repos\Project2\tri_broja.c(182,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\Project2\tri_broja.c(183,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\Jovan\source\repos\Project2\Debug\Project2.exe

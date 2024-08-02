@@ -1,0 +1,15 @@
+﻿  zad1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\stdint.h(21,28): error C2632: '__int64' followed by '__int64' is illegal
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\stdint.h(21,35): warning C4091: 'typedef ': ignored on left of '__int64' when no variable is declared
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\stdint.h(25,28): warning C4114: same type qualifier used more than once
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\stdint.h(25,28): error C2632: '__int64' followed by '__int64' is illegal
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\stdint.h(25,36): warning C4091: 'typedef ': ignored on left of 'unsigned __int64' when no variable is declared
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdint(25,13): error C2589: '__int64': illegal token on right side of '::'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdint(25,1): error C2873: 'unknown-type': symbol cannot be used in a using-declaration
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdint(29,13): error C2589: 'unsigned': illegal token on right side of '::'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdint(29,13): error C2062: type '__int64' unexpected
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdint(59,17): error C2589: '__int64': illegal token on right side of '::'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdint(59,5): error C2873: 'unknown-type': symbol cannot be used in a using-declaration
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdint(63,17): error C2589: 'unsigned': illegal token on right side of '::'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\cstdint(63,17): error C2062: type '__int64' unexpected
+C:\Users\Jovan\source\repos\POS_LAB_6\POS_LAB_6\zad1.cpp(75,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data

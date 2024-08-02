@@ -1,0 +1,12 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\ppp2\Source.c(42,21): warning C4133: '=': incompatible types - from 'Elem *' to 'node *'
+C:\Users\Jovan\source\repos\ppp2\Source.c(59,68): warning C4133: '=': incompatible types - from 'node *' to 'Elem *'
+C:\Users\Jovan\source\repos\ppp2\Source.c(74,28): warning C4133: '=': incompatible types - from 'node *' to 'Elem *'
+C:\Users\Jovan\source\repos\ppp2\Source.c(104,26): warning C4133: '=': incompatible types - from 'Elem *' to 'node *'
+C:\Users\Jovan\source\repos\ppp2\Source.c(134,26): warning C4133: '=': incompatible types - from 'Elem *' to 'node *'
+C:\Users\Jovan\source\repos\ppp2\Source.c(135,22): warning C4133: '=': incompatible types - from 'Elem *' to 'node *'
+C:\Users\Jovan\source\repos\ppp2\Source.c(150,28): warning C4133: '=': incompatible types - from 'node *' to 'Elem *'
+C:\Users\Jovan\source\repos\ppp2\Source.c(87,1): warning C4133: 'initializing': incompatible types - from 'node *' to 'Elem *'
+C:\Users\Jovan\source\repos\ppp2\Source.c(133,1): warning C4133: 'initializing': incompatible types - from 'node *' to 'Elem *'
+C:\Users\Jovan\source\repos\ppp2\Source.c(151,1): warning C4133: 'initializing': incompatible types - from 'node *' to 'Elem *'
+  ppp2.vcxproj -> C:\Users\Jovan\source\repos\ppp2\Debug\prakt.exe

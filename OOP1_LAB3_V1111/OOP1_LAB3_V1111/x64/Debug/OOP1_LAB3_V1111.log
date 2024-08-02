@@ -1,0 +1,3 @@
+﻿  stih.cpp
+C:\Users\Jovan\source\repos\OOP1_LAB3_V1111\OOP1_LAB3_V1111\rec.h(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OOP1_LAB3_V1111.vcxproj -> C:\Users\Jovan\source\repos\OOP1_LAB3_V1111\x64\Debug\OOP1_LAB3_V1111.exe

@@ -1,0 +1,11 @@
+djubretari:komunalije:45000
+py developer:programiranje:400000
+kamiondzija:prevoz:80000
+taksista:prevoz:90000
+system administrator:programiranje:500000
+plivacki trener:trener:75000
+fudbalski trener:trener:100000
+web developer:programiranje:240000
+jkp zelenilo:komunalije:35000
+gsp vozac:prevoz:65000
+data scientist:programiranje:300000

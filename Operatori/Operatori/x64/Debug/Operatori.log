@@ -1,0 +1,5 @@
+﻿  main_prog.cpp
+C:\Users\Jovan\source\repos\Operatori\Operatori\tekst1.h(58,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  skup_trou.cpp
+  Generating Code...
+  Operatori.vcxproj -> C:\Users\Jovan\source\repos\Operatori\x64\Debug\Operatori.exe

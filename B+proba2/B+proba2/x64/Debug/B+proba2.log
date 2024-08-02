@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(111,33): error C2131: expression did not evaluate to a constant
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(111,29): message : failure was caused by non-constant arguments or reference to a non-constant symbol
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(111,29): message : see usage of 'MAX'
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(113,32): error C3863: array type 'int [MAX+1]' is not assignable
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(119,32): error C3863: array type 'int [MAX+1]' is not assignable
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(121,28): error C3863: array type 'int [MAX+1]' is not assignable
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(168,28): error C2131: expression did not evaluate to a constant
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(168,24): message : failure was caused by non-constant arguments or reference to a non-constant symbol
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(168,24): message : see usage of 'MAX'
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(169,30): error C2131: expression did not evaluate to a constant
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(169,26): message : failure was caused by non-constant arguments or reference to a non-constant symbol
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(169,26): message : see usage of 'MAX'
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(171,27): error C3863: array type 'int [MAX+1]' is not assignable
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(174,27): error C3863: array type 'Node *[MAX+2]' is not assignable
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(180,27): error C3863: array type 'int [MAX+1]' is not assignable
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(182,23): error C3863: array type 'int [MAX+1]' is not assignable
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(184,27): error C3863: array type 'Node *[MAX+2]' is not assignable
+C:\Users\Jovan\source\repos\B+proba2\B+proba2\Source.cpp(186,27): error C3863: array type 'Node *[MAX+2]' is not assignable

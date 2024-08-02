@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\liste jd\Source.c(125,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\liste jd\Source.c(123,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jovan\source\repos\liste jd\Source.c(322,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\liste jd\Source.c(132): warning C4716: 'sortList': must return a value
+  liste jd.vcxproj -> C:\Users\Jovan\source\repos\liste jd\Debug\liste jd.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Jovan\source\repos\oop1klk2\oop1klk2\Source.cpp(111): error C4703: potentially uninitialized local pointer variable 'parent' used
+C:\Users\Jovan\source\repos\oop1klk2\oop1klk2\Source.cpp(191): error C4703: potentially uninitialized local pointer variable 'parent' used
+C:\Users\Jovan\source\repos\oop1klk2\oop1klk2\Source.cpp(253): error C4703: potentially uninitialized local pointer variable 'parent' used

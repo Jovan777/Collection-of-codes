@@ -1,0 +1,5 @@
+﻿  main_prog.cpp
+C:\Users\Jovan\source\repos\operatori2\operatori2\karta.h(33,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\Jovan\source\repos\operatori2\operatori2\main_prog.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Jovan\source\repos\operatori2\operatori2\main_prog.cpp(485,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  operatori2.vcxproj -> C:\Users\Jovan\source\repos\operatori2\x64\Debug\operatori2.exe

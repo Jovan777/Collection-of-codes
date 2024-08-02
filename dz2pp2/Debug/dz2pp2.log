@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\dz2pp2\Source.c(16,26): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\dz2pp2\Source.c(265,7): warning C4013: 'free' undefined; assuming extern returning int
+  dz2pp2.vcxproj -> C:\Users\Jovan\source\repos\dz2pp2\Debug\dz2pp2.exe

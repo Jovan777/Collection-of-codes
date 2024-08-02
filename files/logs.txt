@@ -1,0 +1,8 @@
+milan@etf.rs p 10
+zoran@gmail.com p 20
+milan@etf.rs o 30
+zoran@gmail.com o 35
+milan@etf.rs p 40
+milan@etf.rs o 60
+ana@etf.rs p 50
+ana@etf.rs o 90

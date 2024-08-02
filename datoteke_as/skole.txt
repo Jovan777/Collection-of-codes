@@ -1,0 +1,4 @@
+1 Gimnazija
+5 Medicinska Skola
+5 Gradjevinska skola
+5 Tehnicka skola

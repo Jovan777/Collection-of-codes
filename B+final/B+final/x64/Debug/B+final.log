@@ -1,0 +1,4 @@
+﻿  main_prog.cpp
+C:\Users\Jovan\source\repos\B+final\B+final\main_prog.cpp(116,6): warning C4101: 'stepen': unreferenced local variable
+C:\Users\Jovan\source\repos\B+final\B+final\main_prog.cpp(70,7): warning C4101: 'c': unreferenced local variable
+  B+final.vcxproj -> C:\Users\Jovan\source\repos\B+final\x64\Debug\B+final.exe

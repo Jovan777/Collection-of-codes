@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\fajlovi_c\fajlovi_c\Source.c(57,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jovan\source\repos\fajlovi_c\fajlovi_c\Source.c(185,29): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+  fajlovi_c.vcxproj -> C:\Users\Jovan\source\repos\fajlovi_c\x64\Debug\fajlovi_c.exe

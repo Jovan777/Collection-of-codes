@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\safeasp\Source.c(53,20): warning C4133: 'function': incompatible types - from 'int [256]' to 'char *'
+C:\Users\Jovan\source\repos\safeasp\Source.c(101,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int *'
+C:\Users\Jovan\source\repos\safeasp\Source.c(168,108): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  safeasp.vcxproj -> C:\Users\Jovan\source\repos\safeasp\Debug\safeasp.exe

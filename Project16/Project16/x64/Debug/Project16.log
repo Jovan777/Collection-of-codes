@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Jovan\source\repos\Project16\Project16\Source.cpp(101,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jovan\source\repos\Project16\Project16\Source.cpp(101,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jovan\source\repos\Project16\Project16\Source.cpp(216): warning C4715: 'Nota::opis': not all control paths return a value
+  Project16.vcxproj -> C:\Users\Jovan\source\repos\Project16\x64\Debug\Project16.exe

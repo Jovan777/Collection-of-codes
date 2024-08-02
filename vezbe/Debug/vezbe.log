@@ -1,0 +1,3 @@
+﻿  vezbanje.c
+C:\Users\Jovan\source\repos\vezbe\vezbanje.c(129,15): warning C4101: 'j': unreferenced local variable
+  vezbe.vcxproj -> C:\Users\Jovan\source\repos\vezbe\Debug\vezbe.exe

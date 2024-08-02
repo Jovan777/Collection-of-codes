@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\fajl\Source.c(57,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\fajl\Source.c(59,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jovan\source\repos\fajl\Source.c(52,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  fajl.vcxproj -> C:\Users\Jovan\source\repos\fajl\Debug\fajl.exe

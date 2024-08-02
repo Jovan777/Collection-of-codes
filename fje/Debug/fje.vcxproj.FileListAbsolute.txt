@@ -1,0 +1,2 @@
+C:\Users\Jovan\source\repos\fje\Debug\fje.exe
+C:\Users\Jovan\source\repos\fje\Debug\fje.pdb

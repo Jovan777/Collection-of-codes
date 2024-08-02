@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Jovan\source\repos\longlongint\longlongint\Source.cpp(78,7): warning C4101: 'c': unreferenced local variable
+C:\Users\Jovan\source\repos\longlongint\longlongint\Source.cpp(201,7): warning C4101: 'chr': unreferenced local variable
+  longlongint.vcxproj -> C:\Users\Jovan\source\repos\longlongint\x64\Debug\longlongint.exe

@@ -1,0 +1,6 @@
+1 D Marko Markovic Portugal
+2 0 Pera Peric Spanija
+3 D Aleksa Aleksic Svedska
+3 O Aleksa Aleksic Austrija
+4 O Miljan Miljkovic Portugal
+2 D Pera Peric Srbija

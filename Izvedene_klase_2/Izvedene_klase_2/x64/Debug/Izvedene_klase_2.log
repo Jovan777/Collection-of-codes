@@ -1,0 +1,5 @@
+﻿  main_prog.cpp
+C:\Users\Jovan\source\repos\Izvedene_klase_2\Izvedene_klase_2\tekst3.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Jovan\source\repos\Izvedene_klase_2\Izvedene_klase_2\main_prog.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  The contents of <compare> are available only with C++20 or later.
+  Izvedene_klase_2.vcxproj -> C:\Users\Jovan\source\repos\Izvedene_klase_2\x64\Debug\Izvedene_klase_2.exe

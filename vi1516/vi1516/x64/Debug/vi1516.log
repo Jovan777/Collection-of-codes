@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Takt.cpp
+  Generating Code...
+C:\Users\Jovan\source\repos\vi1516\vi1516\Nota.h(81): warning C4715: 'Nota::opis': not all control paths return a value
+  vi1516.vcxproj -> C:\Users\Jovan\source\repos\vi1516\x64\Debug\vi1516.exe

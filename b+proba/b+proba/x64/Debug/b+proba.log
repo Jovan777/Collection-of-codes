@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Jovan\source\repos\b+proba\b+proba\Source.cpp(10,105): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\Jovan\source\repos\b+proba\b+proba\Source.cpp(10,15): warning C4309: 'argument': truncation of constant value
+C:\Users\Jovan\source\repos\b+proba\b+proba\Source.cpp(11,100): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\Jovan\source\repos\b+proba\b+proba\Source.cpp(11,15): warning C4309: 'argument': truncation of constant value
+C:\Users\Jovan\source\repos\b+proba\b+proba\Source.cpp(12,108): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\Jovan\source\repos\b+proba\b+proba\Source.cpp(12,15): warning C4309: 'argument': truncation of constant value
+  b+proba.vcxproj -> C:\Users\Jovan\source\repos\b+proba\x64\Debug\b+proba.exe

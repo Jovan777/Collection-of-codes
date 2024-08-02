@@ -1,0 +1,6 @@
+ER V2 2007/0091 Addia Christophle 97.00 10
+ER V2 2015/0082 Albert Corston 79.00 8
+ER V3 2000/0035 Jeremy von Bolzman 71.00 8
+ER V4 2004/0414 Edward Derrel 15.50 5
+ER V4 2011/0453 Willy Swyer-Sexey 29.50 5
+SI V1 2010/0199 Monroe Oshea 46.25 5

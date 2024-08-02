@@ -1,0 +1,2 @@
+C:\Users\Jovan\source\repos\k2\Debug\k2.exe
+C:\Users\Jovan\source\repos\k2\Debug\k2.pdb

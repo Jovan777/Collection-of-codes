@@ -1,0 +1,18 @@
+﻿  dz2p1.c
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(74,13): warning C4133: 'return': incompatible types - from 'el *' to 'Cvor *'
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(72,1): warning C4133: 'initializing': incompatible types - from 'Cvor *' to 'el *'
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(79,27): warning C4013: 'magicna_suma' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(138,42): warning C4133: 'function': incompatible types - from 'Cvor *' to 'const char *'
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(138,44): warning C4020: 'remove': too many actual parameters
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(148,34): warning C4013: 'indentovanje' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(149,19): warning C4013: 'ispis' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(161,18): warning C4028: formal parameter 1 different from declaration
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(162,1): warning C4029: declared formal parameter list different from definition
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(162,1): warning C4273: 'remove': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(364,26): message : see previous definition of 'remove'
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(173,22): warning C4033: 'ispis' must return a value
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(183,22): warning C4033: 'indentovanje' must return a value
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(170): warning C4716: 'remove': must return a value
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(180): warning C4716: 'ispis': must return a value
+C:\Users\Jovan\source\repos\Project4\dz2p1.c(192): warning C4716: 'indentovanje': must return a value
+  Project4.vcxproj -> C:\Users\Jovan\source\repos\Project4\Debug\Project4.exe

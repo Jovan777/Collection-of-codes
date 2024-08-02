@@ -1,0 +1,17 @@
+﻿  datum1.cpp
+  imenik.cpp
+  Kvadar.cpp
+  lista2.cpp
+  lista_dat.cpp
+  niz_mat_tac.cpp
+  red2.cpp
+  main_prog.cpp
+  skup1.cpp
+  stablo.cpp
+  tacka2t.cpp
+  Trougao.cpp
+  Generating Code...
+C:\Users\Jovan\source\repos\tacke\tacke\stablo.cpp(44): warning C4717: 'Stablo::balans': recursive on all control paths, function will cause runtime stack overflow
+main_prog.obj : error LNK2001: unresolved external symbol "private: static double Kvadar::Vmax" (?Vmax@Kvadar@@0NA)
+main_prog.obj : error LNK2001: unresolved external symbol "private: static double Kvadar::Vuk" (?Vuk@Kvadar@@0NA)
+C:\Users\Jovan\source\repos\tacke\x64\Debug\tacke.exe : fatal error LNK1120: 2 unresolved externals

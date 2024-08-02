@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\primer matf\Source.c(16,26): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\primer matf\Source.c(20,7): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\primer matf\Source.c(275,7): warning C4013: 'free' undefined; assuming extern returning int
+  primer matf.vcxproj -> C:\Users\Jovan\source\repos\primer matf\Debug\primer matf.exe

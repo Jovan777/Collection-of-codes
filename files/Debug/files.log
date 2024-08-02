@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\files\Source.c(47): warning C4715: 'readLine': not all control paths return a value
+  files.vcxproj -> C:\Users\Jovan\source\repos\files\Debug\files.exe

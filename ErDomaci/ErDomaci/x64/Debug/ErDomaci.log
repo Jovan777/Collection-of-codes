@@ -1,0 +1,8 @@
+﻿  main_prog.cpp
+  mapa.cpp
+  polje.cpp
+  polje_sa_putem.cpp
+  polje_sa_sumom.cpp
+  Generating Code...
+C:\Users\Jovan\source\repos\ErDomaci\ErDomaci\polje_sa_putem.h(39): warning C4715: 'Polje_sa_putem::oznaka': not all control paths return a value
+  ErDomaci.vcxproj -> C:\Users\Jovan\source\repos\ErDomaci\x64\Debug\ErDomaci.exe

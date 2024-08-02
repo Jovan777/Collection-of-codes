@@ -1,0 +1,4 @@
+﻿  main_prog.cpp
+C:\Users\Jovan\source\repos\izvodjenje2\izvodjenje2\main_prog.cpp(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Jovan\source\repos\izvodjenje2\izvodjenje2\main_prog.cpp(5,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  izvodjenje2.vcxproj -> C:\Users\Jovan\source\repos\izvodjenje2\x64\Debug\izvodjenje2.exe

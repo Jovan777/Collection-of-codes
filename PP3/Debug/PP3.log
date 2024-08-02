@@ -1,0 +1,4 @@
+﻿  pp3.c
+C:\Users\Jovan\source\repos\PP3\pp3.c(16,26): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\PP3\pp3.c(265,7): warning C4013: 'free' undefined; assuming extern returning int
+  PP3.vcxproj -> C:\Users\Jovan\source\repos\PP3\Debug\PP3.exe

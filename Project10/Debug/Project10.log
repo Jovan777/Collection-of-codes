@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\Project10\Source.c(69,15): warning C4133: '=': incompatible types - from 'Korisnik *' to 'Node *'
+C:\Users\Jovan\source\repos\Project10\Source.c(73,21): warning C4133: '=': incompatible types - from 'Korisnik *' to 'node *'
+C:\Users\Jovan\source\repos\Project10\Source.c(75,14): warning C4133: '=': incompatible types - from 'Korisnik *' to 'Node *'
+  Project10.vcxproj -> C:\Users\Jovan\source\repos\Project10\Debug\Project10.exe

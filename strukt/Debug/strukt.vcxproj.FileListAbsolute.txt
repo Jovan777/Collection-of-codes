@@ -1,0 +1,2 @@
+C:\Users\Jovan\source\repos\strukt\Debug\strukt.exe
+C:\Users\Jovan\source\repos\strukt\Debug\strukt.pdb

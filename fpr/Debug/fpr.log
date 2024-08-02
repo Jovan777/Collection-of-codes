@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\fpr\Source.c(48,19): warning C4013: 'nasao' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\fpr\Source.c(88,14): warning C4101: 'c': unreferenced local variable
+  fpr.vcxproj -> C:\Users\Jovan\source\repos\fpr\Debug\fpr.exe

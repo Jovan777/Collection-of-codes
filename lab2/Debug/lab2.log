@@ -1,0 +1,14 @@
+﻿  lab2.c
+C:\Users\Jovan\source\repos\lab2\lab2.c(66,23): warning C4133: '=': incompatible types - from 'elem *' to 'element *'
+C:\Users\Jovan\source\repos\lab2\lab2.c(73,14): warning C4098: 'stek': 'void' function returning a value
+C:\Users\Jovan\source\repos\lab2\lab2.c(76,28): warning C4133: '=': incompatible types - from 'element *' to 'elem *'
+C:\Users\Jovan\source\repos\lab2\lab2.c(77,10): warning C4098: 'stek': 'void' function returning a value
+C:\Users\Jovan\source\repos\lab2\lab2.c(107,28): warning C4133: '=': incompatible types - from 'element *' to 'elem *'
+C:\Users\Jovan\source\repos\lab2\lab2.c(120,43): warning C4133: '=': incompatible types - from 'element *' to 'elem *'
+C:\Users\Jovan\source\repos\lab2\lab2.c(124,10): warning C4133: 'return': incompatible types - from 'elem *' to 'node *'
+C:\Users\Jovan\source\repos\lab2\lab2.c(122,1): warning C4133: 'initializing': incompatible types - from 'node *' to 'elem *'
+C:\Users\Jovan\source\repos\lab2\lab2.c(155,24): warning C4013: 'check' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\lab2\lab2.c(158,6): warning C4013: 'del' undefined; assuming extern returning int
+C:\Users\Jovan\source\repos\lab2\lab2.c(131,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jovan\source\repos\lab2\lab2.c(260): warning C4716: 'del': must return a value
+  lab2.vcxproj -> C:\Users\Jovan\source\repos\lab2\Debug\lab2.exe

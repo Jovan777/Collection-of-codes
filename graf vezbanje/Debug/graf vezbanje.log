@@ -1,0 +1,4 @@
+﻿  proba1.c
+C:\Users\Jovan\source\repos\graf vezbanje\proba1.c(87,10): warning C4101: 'c': unreferenced local variable
+C:\Users\Jovan\source\repos\graf vezbanje\proba1.c(112,113): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  graf vezbanje.vcxproj -> C:\Users\Jovan\source\repos\graf vezbanje\Debug\graf vezbanje.exe

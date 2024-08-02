@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\vezbe jd\Source.c(128,17): warning C4133: 'function': incompatible types - from 'int *' to 'point *'
+C:\Users\Jovan\source\repos\vezbe jd\Source.c(129,18): warning C4133: 'function': incompatible types - from 'int *' to 'point *'
+C:\Users\Jovan\source\repos\vezbe jd\Source.c(132,13): warning C4133: 'function': incompatible types - from 'int *' to 'point *'
+C:\Users\Jovan\source\repos\vezbe jd\Source.c(132,32): warning C4133: 'function': incompatible types - from 'int *' to 'point *'
+C:\Users\Jovan\source\repos\vezbe jd\Source.c(124,1): warning C4133: 'initializing': incompatible types - from 'point *' to 'int *'
+C:\Users\Jovan\source\repos\vezbe jd\Source.c(125,1): warning C4133: 'initializing': incompatible types - from 'point *' to 'int *'
+C:\Users\Jovan\source\repos\vezbe jd\Source.c(226,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\vezbe jd\Source.c(227,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  vezbe jd.vcxproj -> C:\Users\Jovan\source\repos\vezbe jd\Debug\vezbe jd.exe

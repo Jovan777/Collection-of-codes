@@ -1,0 +1,4 @@
+﻿  funkcije.c
+C:\Users\Jovan\source\repos\funkcije\funkcije.c(21,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Jovan\source\repos\funkcije\funkcije.c(65): warning C4716: 'rotate_one': must return a value
+  funkcije.vcxproj -> C:\Users\Jovan\source\repos\funkcije\Debug\funkcije.exe

@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Jovan\source\repos\Project7\Source.c(203,7): warning C4101: 'prezime': unreferenced local variable
+C:\Users\Jovan\source\repos\Project7\Source.c(204,7): warning C4101: 'drzava': unreferenced local variable
+C:\Users\Jovan\source\repos\Project7\Source.c(201,7): warning C4101: 'c': unreferenced local variable
+C:\Users\Jovan\source\repos\Project7\Source.c(202,7): warning C4101: 'ime': unreferenced local variable
+C:\Users\Jovan\source\repos\Project7\Source.c(200,6): warning C4101: 'd': unreferenced local variable
+  Project7.vcxproj -> C:\Users\Jovan\source\repos\Project7\Debug\Project7.exe

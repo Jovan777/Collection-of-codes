@@ -1,0 +1,4 @@
+Zvezda 17500 26000
+Partizan 10000 20000
+Rad 0 12500
+YoungBoys 26000 0

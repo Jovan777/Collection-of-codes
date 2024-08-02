@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Jovan\source\repos\Project12\Project12\Source.cpp(107,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\Project12\Project12\Source.cpp(218,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jovan\source\repos\Project12\Project12\Source.cpp(241,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project12.vcxproj -> C:\Users\Jovan\source\repos\Project12\x64\Debug\Project12.exe
